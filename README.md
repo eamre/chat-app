@@ -1,8 +1,10 @@
 # Chat App
-<img src="https://github.com/eamre/chat-app-firebase/blob/main/public/ph1.PNG" width="320" height="300"/>
-<img src="https://github.com/eamre/chat-app-firebase/blob/main/public/ph2.PNG" width="320" height="390" />
-<img src="https://github.com/eamre/chat-app-firebase/blob/main/public/ph3.PNG" width="700" height="450" />
-<img src="https://github.com/eamre/chat-app-firebase/blob/main/public/ph4.PNG" width="700" height="450" />
+<img src="https://github.com/eamre/chat-app-firebase/blob/main/public/ph1.PNG" width="220" />
+<img src="https://github.com/eamre/chat-app-firebase/blob/main/public/ph2.PNG" width="220" />
+<img src="https://github.com/eamre/chat-app-firebase/blob/main/public/ph3.PNG" width="600"/>
+<img src="https://github.com/eamre/chat-app-firebase/blob/main/public/ph4.PNG" width="600"/>
+
+<!-- ![alt text](https://github.com/eamre/chat-app-firebase/blob/main/public/ph4.PNG) -->
 
 ## Installation
 
